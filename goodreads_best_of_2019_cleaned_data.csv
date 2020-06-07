@@ -1,0 +1,401 @@
+,Category,NumberOfVotes,BookID,Hyperlink,Title,Rating,RatingCount,ReviewCount,Position,PositionAndTitle
+0,Fiction,98291,42975172,https://www.goodreads.com/book/show/42975172-the-testaments,The Testaments by Margaret Atwood,4.21,167861,18041,1,1 - The Testaments by Margaret Atwood
+1,Mystery thriller,68821,40097951,https://www.goodreads.com/book/show/40097951-the-silent-patient,The Silent Patient by Alex Michaelides,4.09,365819,39076,1,1 - The Silent Patient by Alex Michaelides
+3,Debut novel,44936,40097951,https://www.goodreads.com/book/show/40097951-the-silent-patient,The Silent Patient by Alex Michaelides,4.09,365819,39076,2,2 - The Silent Patient by Alex Michaelides
+5,Historical fiction,82483,40597810,https://www.goodreads.com/book/show/40597810-daisy-jones-the-six,Daisy Jones & The Six by Taylor Jenkins Reid,4.21,211493,32219,1,1 - Daisy Jones & The Six by Taylor Jenkins Reid
+6,Fantasy,53430,43263680,https://www.goodreads.com/book/show/43263680-ninth-house,Ninth House by Leigh Bardugo,4.08,63377,11891,1,1 - Ninth House by Leigh Bardugo
+7,Romance,76688,52410331,https://www.goodreads.com/book/show/52410331-red-white-royal-blue,"Red, White & Royal Blue by Casey McQuiston",4.26,115048,22473,1,"1 - Red, White & Royal Blue by Casey McQuiston"
+8,Science fiction,41261,42046112,https://www.goodreads.com/book/show/42046112-recursion,Recursion by Blake Crouch,4.18,81596,11982,1,1 - Recursion by Blake Crouch
+9,Horror,75717,43798285,https://www.goodreads.com/book/show/43798285-the-institute,The Institute by Stephen King,4.21,99405,11871,1,1 - The Institute by Stephen King
+10,Humor,41454,44600621,https://www.goodreads.com/book/show/44600621-dear-girls,Dear Girls by Ali Wong,3.92,36662,3943,1,1 - Dear Girls by Ali Wong
+11,Nonfiction,31276,40591267,https://www.goodreads.com/book/show/40591267-girl-stop-apologizing,"Girl, Stop Apologizing by Rachel Hollis",3.96,45778,4468,1,"1 - Girl, Stop Apologizing by Rachel Hollis"
+12,Memoir autobiography,28977,43386674,https://www.goodreads.com/book/show/43386674-over-the-top,Over the Top by Jonathan Van Ness,4.22,30226,3281,1,1 - Over the Top by Jonathan Van Ness
+13,History biography,31783,37570548,https://www.goodreads.com/book/show/37570548-the-five,The Five by Hallie Rubenhold,4.23,14847,2693,1,1 - The Five by Hallie Rubenhold
+14,Science technology,29594,43785830,https://www.goodreads.com/book/show/43785830-will-my-cat-eat-my-eyeballs-big-questions-from-tiny-mortals-about-death,Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals ... by Caitlin Doughty,4.16,13689,2366,1,1 - Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals ... by Caitlin Doughty
+15,Food cookbooks,25387,39977443,https://www.goodreads.com/book/show/39977443-antoni-in-the-kitchen,Antoni in the Kitchen by Antoni Porowski,4.03,1400,183,1,1 - Antoni in the Kitchen by Antoni Porowski
+16,Graphic novels comics,29624,40864790,https://www.goodreads.com/book/show/40864790-pumpkinheads,Pumpkinheads by Rainbow Rowell,4.12,31673,6759,1,1 - Pumpkinheads by Rainbow Rowell
+17,Poetry,18911,40519259,https://www.goodreads.com/book/show/40519259-shout,SHOUT by Laurie Halse Anderson,4.31,12080,2326,1,1 - SHOUT by Laurie Halse Anderson
+18,Debut novel,60656,41150487,https://www.goodreads.com/book/show/41150487-red-white-royal-blue,"Red, White & Royal Blue by Casey McQuiston",4.26,115023,22473,1,"1 - Red, White & Royal Blue by Casey McQuiston"
+19,Young adult fiction,36232,38926328,https://www.goodreads.com/book/show/38926328-five-feet-apart,Five Feet Apart by Rachael Lippincott,4.18,66977,8764,1,1 - Five Feet Apart by Rachael Lippincott
+20,Young adult fantasy,48181,38237340,https://www.goodreads.com/book/show/38237340-the-wicked-king,The Wicked King by Holly Black,4.43,106121,15943,1,1 - The Wicked King by Holly Black
+21,Childrens,33333,43128231,https://www.goodreads.com/book/show/43128231-the-tyrant-s-tomb,The Tyrant's Tomb by Rick Riordan,4.28,18910,1889,1,1 - The Tyrant's Tomb by Rick Riordan
+22,Picture,29860,42616620,https://www.goodreads.com/book/show/42616620-a-beautiful-day-in-the-neighborhood,A Beautiful Day in the Neighborhood by Fred Rogers,4.34,1739,401,1,1 - A Beautiful Day in the Neighborhood by Fred Rogers
+23,Fiction,40081,41057294,https://www.goodreads.com/book/show/41057294-normal-people,Normal People by Sally Rooney,3.88,275110,24560,2,2 - Normal People by Sally Rooney
+24,Mystery thriller,52097,38819868,https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer,"My Sister, the Serial Killer by Oyinkan Braithwaite",3.74,110675,13501,2,"2 - My Sister, the Serial Killer by Oyinkan Braithwaite"
+26,Debut novel,26662,38819868,https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer,"My Sister, the Serial Killer by Oyinkan Braithwaite",3.74,110675,13501,3,"3 - My Sister, the Serial Killer by Oyinkan Braithwaite"
+28,Historical fiction,29362,42279228,https://www.goodreads.com/book/show/42279228-the-nickel-boys,The Nickel Boys by Colson Whitehead,4.26,76544,8968,2,2 - The Nickel Boys by Colson Whitehead
+29,Fantasy,35351,43575115,https://www.goodreads.com/book/show/43575115-the-starless-sea,The Starless Sea by Erin Morgenstern,3.9,61994,13959,2,2 - The Starless Sea by Erin Morgenstern
+30,Romance,35868,43225180,https://www.goodreads.com/book/show/43225180-verity,Verity by Colleen Hoover,4.34,117052,19251,2,2 - Verity by Colleen Hoover
+31,Science fiction,35556,37678631,https://www.goodreads.com/book/show/37678631-dark-age,Dark Age by Pierce Brown,4.45,18847,2037,2,2 - Dark Age by Pierce Brown
+32,Horror,22865,43522576,https://www.goodreads.com/book/show/43522576-imaginary-friend,Imaginary Friend by Stephen Chbosky,3.5,16807,4225,2,2 - Imaginary Friend by Stephen Chbosky
+33,Humor,17229,43885930,https://www.goodreads.com/book/show/43885930-life-will-be-the-death-of-me,Life Will Be the Death of Me by Chelsea Handler,4.05,18390,1686,2,2 - Life Will Be the Death of Me by Chelsea Handler
+34,Nonfiction,29382,41066983,https://www.goodreads.com/book/show/41066983-stay-sexy-don-t-get-murdered,Stay Sexy & Don't Get Murdered by Karen Kilgariff,4.15,41515,4244,2,2 - Stay Sexy & Don't Get Murdered by Karen Kilgariff
+35,Memoir autobiography,23817,46264398,https://www.goodreads.com/book/show/46264398-know-my-name,Know My Name by Chanel Miller,4.7,36518,5650,2,2 - Know My Name by Chanel Miller
+36,History biography,19711,40538681,https://www.goodreads.com/book/show/40538681-midnight-in-chernobyl,Midnight in Chernobyl by Adam Higginbotham,4.4,18267,2380,2,2 - Midnight in Chernobyl by Adam Higginbotham
+37,Science technology,28859,41104077,https://www.goodreads.com/book/show/41104077-invisible-women,Invisible Women by Caroline Criado Perez,4.43,18470,3009,2,2 - Invisible Women by Caroline Criado Perez
+38,Food cookbooks,21108,43884186,https://www.goodreads.com/book/show/43884186-the-adventurous-eaters-club,The Adventurous Eaters Club by Misha Collins,4.9,1898,97,2,2 - The Adventurous Eaters Club by Misha Collins
+39,Graphic novels comics,28460,43307358,https://www.goodreads.com/book/show/43307358-heartstopper,Heartstopper by Alice Oseman,4.65,21857,3750,2,2 - Heartstopper by Alice Oseman
+40,Poetry,18710,40680973,https://www.goodreads.com/book/show/40680973-the-mermaid-s-voice-returns-in-this-one,The Mermaid's Voice Returns in This One by Amanda Lovelace,3.75,8553,1421,2,2 - The Mermaid's Voice Returns in This One by Amanda Lovelace
+41,Young adult fiction,34932,35887567,https://www.goodreads.com/book/show/35887567-on-the-come-up,On the Come Up by Angie Thomas,4.29,52982,8179,2,2 - On the Come Up by Angie Thomas
+42,Young adult fantasy,39909,44017627,https://www.goodreads.com/book/show/44017627-wayward-son,Wayward Son by Rainbow Rowell,4.07,41692,7271,2,2 - Wayward Son by Rainbow Rowell
+43,Childrens,30557,43319657,https://www.goodreads.com/book/show/43319657-tunnel-of-bones,Tunnel of Bones by Victoria Schwab,4.11,10152,2108,2,2 - Tunnel of Bones by Victoria Schwab
+44,Picture,26891,42785750,https://www.goodreads.com/book/show/42785750-sulwe,Sulwe by Lupita Nyong'o,4.6,3848,870,2,2 - Sulwe by Lupita Nyong'o
+45,Fiction,29342,40545956,https://www.goodreads.com/book/show/40545956-where-the-forest-meets-the-stars,Where the Forest Meets the Stars by Glendy Vanderah,4.15,79078,7151,3,3 - Where the Forest Meets the Stars by Glendy Vanderah
+46,Mystery thriller,31822,42080142,https://www.goodreads.com/book/show/42080142-the-turn-of-the-key,The Turn of the Key by Ruth Ware,3.94,94928,12830,3,3 - The Turn of the Key by Ruth Ware
+47,Historical fiction,25851,40390766,https://www.goodreads.com/book/show/40390766-the-huntress,The Huntress by Kate Quinn,4.27,58193,6654,3,3 - The Huntress by Kate Quinn
+48,Fantasy,32778,39943621,https://www.goodreads.com/book/show/39943621-fire-blood,Fire & Blood by George R.R. Martin,3.89,30099,3648,3,3 - Fire & Blood by George R.R. Martin
+49,Romance,28816,52709482,https://www.goodreads.com/book/show/52709482-the-unhoneymooners,The Unhoneymooners by Christina Lauren,3.99,86775,12869,3,3 - The Unhoneymooners by Christina Lauren
+50,Science fiction,23273,42036538,https://www.goodreads.com/book/show/42036538-gideon-the-ninth,Gideon the Ninth by Tamsyn Muir,4.24,17708,4111,3,3 - Gideon the Ninth by Tamsyn Muir
+52,Debut novel,3145,42036538,https://www.goodreads.com/book/show/42036538-gideon-the-ninth,Gideon the Ninth by Tamsyn Muir,4.24,17708,4111,18,18 - Gideon the Ninth by Tamsyn Muir
+54,Horror,17847,42881101,https://www.goodreads.com/book/show/42881101-the-girl-in-red,The Girl in Red by Christina Henry,3.72,6117,1393,3,3 - The Girl in Red by Christina Henry
+55,Humor,13978,42060068,https://www.goodreads.com/book/show/42060068-william-shakespeare-s-much-ado-about-mean-girls,William Shakespeare's Much Ado About Mean Girls by Ian Doescher,3.93,905,230,3,3 - William Shakespeare's Much Ado About Mean Girls by Ian Doescher
+56,Nonfiction,25429,37570546,https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone,Maybe You Should Talk to Someone by Lori Gottlieb,4.38,91864,8776,3,3 - Maybe You Should Talk to Someone by Lori Gottlieb
+57,Memoir autobiography,21228,44286431,https://www.goodreads.com/book/show/44286431-home-work,Home Work by Julie Andrews Edwards,3.86,7566,1053,3,3 - Home Work by Julie Andrews Edwards
+58,History biography,14733,40163119,https://www.goodreads.com/book/show/40163119-say-nothing,Say Nothing by Patrick Radden Keefe,4.43,31880,4176,3,3 - Say Nothing by Patrick Radden Keefe
+59,Science technology,15466,43582376,https://www.goodreads.com/book/show/43582376-the-body,The Body by Bill Bryson,4.32,20123,2865,3,3 - The Body by Bill Bryson
+60,Food cookbooks,19910,40645634,https://www.goodreads.com/book/show/40645634-notes-from-a-young-black-chef,Notes from a Young Black Chef by Kwame Onwuachi,3.91,3496,433,3,3 - Notes from a Young Black Chef by Kwame Onwuachi
+61,Graphic novels comics,23606,40766383,https://www.goodreads.com/book/show/40766383-the-handmaid-s-tale,The Handmaid's Tale by Renée Nault,4.24,9478,1249,3,3 - The Handmaid's Tale by Renée Nault
+62,Poetry,14270,43838654,https://www.goodreads.com/book/show/43838654-the-truth-about-magic,The Truth About Magic by Atticus Poetry,4.02,3257,382,3,3 - The Truth About Magic by Atticus Poetry
+63,Young adult fiction,23010,41154268,https://www.goodreads.com/book/show/41154268-with-the-fire-on-high,With the Fire on High by Elizabeth Acevedo,4.25,29146,5605,3,3 - With the Fire on High by Elizabeth Acevedo
+64,Young adult fantasy,35431,36538785,https://www.goodreads.com/book/show/36538785-queen-of-air-and-darkness,Queen of Air and Darkness by Cassandra Clare,4.36,55122,7714,3,3 - Queen of Air and Darkness by Cassandra Clare
+65,Childrens,20488,42097227,https://www.goodreads.com/book/show/42097227-guts,Guts by Raina Telgemeier,4.37,20102,2396,3,3 - Guts by Raina Telgemeier
+66,Picture,18586,40221498,https://www.goodreads.com/book/show/40221498-the-good-egg,The Good Egg by Jory John,4.17,4095,643,3,3 - The Good Egg by Jory John
+67,Fiction,26653,42201996,https://www.goodreads.com/book/show/42201996-ask-again-yes,"Ask Again, Yes by Mary Beth Keane",4.01,85610,8756,4,"4 - Ask Again, Yes by Mary Beth Keane"
+68,Mystery thriller,23526,39863488,https://www.goodreads.com/book/show/39863488-the-lost-man,The Lost Man by Jane Harper,4.18,49006,6254,4,4 - The Lost Man by Jane Harper
+69,Historical fiction,25671,42135029,https://www.goodreads.com/book/show/42135029-city-of-girls,City of Girls by Elizabeth Gilbert,4.05,116108,12372,4,4 - City of Girls by Elizabeth Gilbert
+70,Fantasy,30868,40381319,https://www.goodreads.com/book/show/40381319-the-priory-of-the-orange-tree,The Priory of the Orange Tree by Samantha Shannon,4.16,30759,6494,4,4 - The Priory of the Orange Tree by Samantha Shannon
+71,Romance,26097,41150382,https://www.goodreads.com/book/show/41150382-things-you-save-in-a-fire,Things You Save in a Fire by Katherine Center,4.04,44670,7583,4,4 - Things You Save in a Fire by Katherine Center
+72,Science fiction,20344,41093489,https://www.goodreads.com/book/show/41093489-this-is-how-you-lose-the-time-war,This Is How You Lose the Time War by Amal El-Mohtar,3.98,21862,5107,4,4 - This Is How You Lose the Time War by Amal El-Mohtar
+73,Horror,12016,40065317,https://www.goodreads.com/book/show/40065317-the-invited,The Invited by Jennifer  McMahon,3.79,11607,2010,4,4 - The Invited by Jennifer  McMahon
+74,Humor,12900,43263670,https://www.goodreads.com/book/show/43263670-do-you-mind-if-i-cancel,Do You Mind If I Cancel? by Gary Janetti,3.52,7018,671,4,4 - Do You Mind If I Cancel? by Gary Janetti
+75,Nonfiction,25118,53011908,https://www.goodreads.com/book/show/53011908-catch-and-kill,Catch and Kill by Ronan Farrow,4.49,48546,6105,4,4 - Catch and Kill by Ronan Farrow
+76,Memoir autobiography,20852,39218350,https://www.goodreads.com/book/show/39218350-maid,Maid by Stephanie  Land,3.73,32401,4114,4,4 - Maid by Stephanie  Land
+77,History biography,13545,44908411,https://www.goodreads.com/book/show/44908411-before-and-after,Before and After by Judy Christie,4.01,5578,1018,4,4 - Before and After by Judy Christie
+78,Science technology,13830,43852758,https://www.goodreads.com/book/show/43852758-how-to,How To by Randall Munroe,4.19,7095,901,4,4 - How To by Randall Munroe
+79,Food cookbooks,15334,44429515,https://www.goodreads.com/book/show/44429515-the-little-women-cookbook,The Little Women Cookbook by Wini Moranville,4.14,237,106,4,4 - The Little Women Cookbook by Wini Moranville
+80,Graphic novels comics,19574,42527866,https://www.goodreads.com/book/show/42527866-they-called-us-enemy,They Called Us Enemy by George Takei,4.47,12567,2264,4,4 - They Called Us Enemy by George Takei
+81,Poetry,11598,39656141,https://www.goodreads.com/book/show/39656141-lord-of-the-butterflies,Lord of the Butterflies by Andrea Gibson,4.52,1726,338,4,4 - Lord of the Butterflies by Andrea Gibson
+82,Debut novel,18657,43521657,https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january,The Ten Thousand Doors of January by Alix E. Harrow,4.11,29125,6026,4,4 - The Ten Thousand Doors of January by Alix E. Harrow
+84,Fantasy,6698,43521657,https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january,The Ten Thousand Doors of January by Alix E. Harrow,4.11,29125,6026,11,11 - The Ten Thousand Doors of January by Alix E. Harrow
+86,Young adult fiction,21419,38225791,https://www.goodreads.com/book/show/38225791-two-can-keep-a-secret,Two Can Keep a Secret by Karen M. McManus,3.98,39386,6084,4,4 - Two Can Keep a Secret by Karen M. McManus
+87,Young adult fantasy,25250,39804936,https://www.goodreads.com/book/show/39804936-king-of-scars,King of Scars by Leigh Bardugo,4.21,36583,7348,4,4 - King of Scars by Leigh Bardugo
+88,Childrens,10979,39280558,https://www.goodreads.com/book/show/39280558-the-remarkable-journey-of-coyote-sunrise,The Remarkable Journey of Coyote Sunrise by Dan Gemeinhart,4.49,7628,1695,4,4 - The Remarkable Journey of Coyote Sunrise by Dan Gemeinhart
+89,Picture,12925,40944115,https://www.goodreads.com/book/show/40944115-hair-love,Hair Love by Matthew A. Cherry,4.54,2669,541,4,4 - Hair Love by Matthew A. Cherry
+90,Fiction,21524,40539165,https://www.goodreads.com/book/show/40539165-queenie,Queenie by Candice Carty-Williams,3.76,39247,4904,5,5 - Queenie by Candice Carty-Williams
+92,Debut novel,11242,40539165,https://www.goodreads.com/book/show/40539165-queenie,Queenie by Candice Carty-Williams,3.76,39247,4904,10,10 - Queenie by Candice Carty-Williams
+94,Mystery thriller,19692,39863515,https://www.goodreads.com/book/show/39863515-an-anonymous-girl,An Anonymous Girl by Greer Hendricks,3.82,90308,11600,5,5 - An Anonymous Girl by Greer Hendricks
+95,Historical fiction,24250,43925876,https://www.goodreads.com/book/show/43925876-the-giver-of-stars,The Giver of Stars by Jojo Moyes,4.3,114152,12353,5,5 - The Giver of Stars by Jojo Moyes
+96,Fantasy,29553,35297403,https://www.goodreads.com/book/show/35297403-the-red-scrolls-of-magic,The Red Scrolls of Magic by Cassandra Clare,4.22,19295,3105,5,5 - The Red Scrolls of Magic by Cassandra Clare
+97,Romance,25343,39338454,https://www.goodreads.com/book/show/39338454-the-bride-test,The Bride Test by Helen Hoang,3.91,52367,7840,5,5 - The Bride Test by Helen Hoang
+98,Science fiction,18350,42201962,https://www.goodreads.com/book/show/42201962-the-deep,The Deep by Rivers Solomon,3.74,6511,1638,5,5 - The Deep by Rivers Solomon
+99,Horror,11966,44034616,https://www.goodreads.com/book/show/44034616-the-lost-causes-of-bleak-creek,The Lost Causes of Bleak Creek by Rhett McLaughlin,4.03,4809,851,5,5 - The Lost Causes of Bleak Creek by Rhett McLaughlin
+100,Humor,11423,40983137,https://www.goodreads.com/book/show/40983137-southern-lady-code,Southern Lady Code by Helen Ellis,3.62,5957,987,5,5 - Southern Lady Code by Helen Ellis
+101,Nonfiction,24294,40574441,https://www.goodreads.com/book/show/40574441-everything-is-f-cked,Everything Is F*cked by Mark Manson,3.75,28400,2820,5,5 - Everything Is F*cked by Mark Manson
+102,Memoir autobiography,18633,44303730,https://www.goodreads.com/book/show/44303730-me,Me by Elton John,4.34,25193,3276,5,5 - Me by Elton John
+103,History biography,13252,40595446,https://www.goodreads.com/book/show/40595446-a-woman-of-no-importance,A Woman of No Importance by Sonia Purnell,4.21,9490,1607,5,5 - A Woman of No Importance by Sonia Purnell
+104,Science technology,12407,40180060,https://www.goodreads.com/book/show/40180060-mama-s-last-hug,Mama's Last Hug by Frans de Waal,4.17,2184,368,5,5 - Mama's Last Hug by Frans de Waal
+105,Food cookbooks,14953,43849324,https://www.goodreads.com/book/show/43849324-rachael-ray-50,Rachael Ray 50 by Rachael Ray,3.95,369,80,5,5 - Rachael Ray 50 by Rachael Ray
+106,Graphic novels comics,18200,39296114,https://www.goodreads.com/book/show/39296114-book-love,Book Love by Debbie Tung,4.25,9479,2243,5,5 - Book Love by Debbie Tung
+107,Poetry,9777,44157727,https://www.goodreads.com/book/show/44157727-great-goddesses,Great Goddesses by Nikita Gill,4.2,2048,323,5,5 - Great Goddesses by Nikita Gill
+108,Debut novel,18350,43982054,https://www.goodreads.com/book/show/43982054-the-water-dancer,The Water Dancer by Ta-Nehisi Coates,4.07,43778,5657,5,5 - The Water Dancer by Ta-Nehisi Coates
+110,Historical fiction,24100,43982054,https://www.goodreads.com/book/show/43982054-the-water-dancer,The Water Dancer by Ta-Nehisi Coates,4.07,43778,5657,6,6 - The Water Dancer by Ta-Nehisi Coates
+112,Young adult fiction,20415,43220998,https://www.goodreads.com/book/show/43220998-the-fountains-of-silence,The Fountains of Silence by Ruta Sepetys,4.32,18217,3575,5,5 - The Fountains of Silence by Ruta Sepetys
+113,Young adult fantasy,23072,42505366,https://www.goodreads.com/book/show/42505366-wilder-girls,Wilder Girls by Rory Power,3.59,23475,5796,5,5 - Wilder Girls by Rory Power
+114,Childrens,10452,39893619,https://www.goodreads.com/book/show/39893619-new-kid,New Kid by Jerry Craft,4.13,22947,2136,5,5 - New Kid by Jerry Craft
+115,Picture,8998,38595349,https://www.goodreads.com/book/show/38595349-unicorn-day,Unicorn Day by Diana  Murray,3.78,1080,245,5,5 - Unicorn Day by Diana  Murray
+116,Fiction,21177,41880609,https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous,On Earth We're Briefly Gorgeous by Ocean Vuong,4.06,50369,7523,6,6 - On Earth We're Briefly Gorgeous by Ocean Vuong
+118,Debut novel,13688,41880609,https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous,On Earth We're Briefly Gorgeous by Ocean Vuong,4.06,50369,7523,7,7 - On Earth We're Briefly Gorgeous by Ocean Vuong
+120,Mystery thriller,19627,41940236,https://www.goodreads.com/book/show/41940236-the-whisper-man,The Whisper Man by Alex North,4.07,50182,7257,6,6 - The Whisper Man by Alex North
+121,Fantasy,26836,36906346,https://www.goodreads.com/book/show/36906346-the-winter-of-the-witch,The Winter of the Witch by Katherine Arden,4.51,34076,5119,6,6 - The Winter of the Witch by Katherine Arden
+122,Romance,24476,42101728,https://www.goodreads.com/book/show/42101728-the-savior,The Savior by J.R. Ward,4.44,13233,1613,6,6 - The Savior by J.R. Ward
+123,Science fiction,14088,28335698,https://www.goodreads.com/book/show/28335698-tiamat-s-wrath,Tiamat's Wrath by James S.A. Corey,4.59,25354,1878,6,6 - Tiamat's Wrath by James S.A. Corey
+124,Horror,9941,43801817,https://www.goodreads.com/book/show/43801817-full-throttle,Full Throttle by Joe Hill,4.05,7311,1251,6,6 - Full Throttle by Joe Hill
+125,Humor,10347,41188319,https://www.goodreads.com/book/show/41188319-the-field-guide-to-dumb-birds-of-north-america,The Field Guide to Dumb Birds of North America by Matt Kracht,4.0,1039,274,6,6 - The Field Guide to Dumb Birds of North America by Matt Kracht
+126,Nonfiction,22702,43848929,https://www.goodreads.com/book/show/43848929-talking-to-strangers,Talking to Strangers by Malcolm Gladwell,4.04,95385,9718,6,6 - Talking to Strangers by Malcolm Gladwell
+127,Memoir autobiography,13807,40364332,https://www.goodreads.com/book/show/40364332-inheritance,Inheritance by Dani Shapiro,3.91,29118,3985,6,6 - Inheritance by Dani Shapiro
+128,History biography,11383,43821991,https://www.goodreads.com/book/show/43821991-the-only-plane-in-the-sky,The Only Plane in the Sky by Garrett M. Graff,4.73,9046,1764,6,6 - The Only Plane in the Sky by Garrett M. Graff
+129,Science technology,9468,40405444,https://www.goodreads.com/book/show/40405444-digital-minimalism,Digital Minimalism by Cal Newport,4.07,25883,3120,6,6 - Digital Minimalism by Cal Newport
+130,Food cookbooks,13561,41948849,https://www.goodreads.com/book/show/41948849-plant-based-on-a-budget,Plant-Based on a Budget by Toni Okamoto,4.21,338,65,6,6 - Plant-Based on a Budget by Toni Okamoto
+131,Graphic novels comics,17730,38452813,https://www.goodreads.com/book/show/38452813-teen-titans,Teen Titans by Kami Garcia,3.97,8056,1546,6,6 - Teen Titans by Kami Garcia
+132,Poetry,9311,41219132,https://www.goodreads.com/book/show/41219132-love-looks-pretty-on-you,Love Looks Pretty on You by Lang Leav,3.83,3226,454,6,6 - Love Looks Pretty on You by Lang Leav
+133,Debut novel,16722,40514431,https://www.goodreads.com/book/show/40514431-evvie-drake-starts-over,Evvie Drake Starts Over by Linda  Holmes,3.88,64200,8242,6,6 - Evvie Drake Starts Over by Linda  Holmes
+134,Young adult fiction,20395,41147279,https://www.goodreads.com/book/show/41147279-again-but-better,"Again, but Better by Christine Riccio",3.67,18049,4603,6,"6 - Again, but Better by Christine Riccio"
+135,Young adult fantasy,20323,43822024,https://www.goodreads.com/book/show/43822024-the-toll,The Toll by Neal Shusterman,4.28,31487,5910,6,6 - The Toll by Neal Shusterman
+136,Childrens,9798,40139216,https://www.goodreads.com/book/show/40139216-a-crystal-of-time,A Crystal of Time by Soman Chainani,4.52,3696,373,6,6 - A Crystal of Time by Soman Chainani
+137,Picture,7954,42931503,https://www.goodreads.com/book/show/42931503-a-tiger-like-me,A Tiger Like Me by Michael Engler,4.03,1137,218,6,6 - A Tiger Like Me by Michael Engler
+138,Fiction,20211,34313931,https://www.goodreads.com/book/show/34313931-a-woman-is-no-man,A Woman Is No Man by Etaf Rum,4.24,52679,6470,7,7 - A Woman Is No Man by Etaf Rum
+140,Debut novel,12315,34313931,https://www.goodreads.com/book/show/34313931-a-woman-is-no-man,A Woman Is No Man by Etaf Rum,4.24,52679,6470,8,8 - A Woman Is No Man by Etaf Rum
+142,Mystery thriller,18561,40697540,https://www.goodreads.com/book/show/40697540-run-away,Run Away by Harlan Coben,4.06,38115,3844,7,7 - Run Away by Harlan Coben
+143,Historical fiction,22234,40130093,https://www.goodreads.com/book/show/40130093-once-upon-a-river,Once Upon a River by Diane Setterfield,3.98,41225,7064,7,7 - Once Upon a River by Diane Setterfield
+144,Fantasy,25671,37638128,https://www.goodreads.com/book/show/37638128-of-blood-and-bone,Of Blood and Bone by Nora Roberts,4.29,25194,2331,7,7 - Of Blood and Bone by Nora Roberts
+145,Romance,17513,41450662,https://www.goodreads.com/book/show/41450662-the-kiss-thief,The Kiss Thief by L.J. Shen,4.06,37696,4899,7,7 - The Kiss Thief by L.J. Shen
+146,Science fiction,13508,42260978,https://www.goodreads.com/book/show/42260978-machines-like-me,Machines Like Me by Ian McEwan,3.61,15242,2149,7,7 - Machines Like Me by Ian McEwan
+147,Horror,7352,42815544,https://www.goodreads.com/book/show/42815544-bunny,Bunny by Mona Awad,3.5,10557,2695,7,7 - Bunny by Mona Awad
+148,Humor,9402,41429806,https://www.goodreads.com/book/show/41429806-riding-the-elephant,Riding the Elephant by Craig Ferguson,4.02,1654,236,7,7 - Riding the Elephant by Craig Ferguson
+149,Nonfiction,15892,42201100,https://www.goodreads.com/book/show/42201100-three-women,Three Women by Lisa Taddeo,3.7,59771,5927,7,7 - Three Women by Lisa Taddeo
+150,Memoir autobiography,12918,45167624,https://www.goodreads.com/book/show/45167624-inside-out,Inside Out by Demi Moore,3.87,21045,2422,7,7 - Inside Out by Demi Moore
+151,History biography,10097,42201377,https://www.goodreads.com/book/show/42201377-the-pioneers,The Pioneers by David McCullough,3.76,11264,1777,7,7 - The Pioneers by David McCullough
+152,Science technology,8174,41552709,https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth,The Uninhabitable Earth by David Wallace-Wells,4.1,12526,2269,7,7 - The Uninhabitable Earth by David Wallace-Wells
+153,Food cookbooks,13416,42583941,https://www.goodreads.com/book/show/42583941-let-s-make-ramen,Let's Make Ramen! by Hugh Amano,4.18,620,105,7,7 - Let's Make Ramen! by Hugh Amano
+154,Graphic novels comics,16832,38524301,https://www.goodreads.com/book/show/38524301-shades-of-magic-vol-1,Shades of Magic Vol. 1 by V.E. Schwab,3.7,7453,708,7,7 - Shades of Magic Vol. 1 by V.E. Schwab
+155,Poetry,8200,40046136,https://www.goodreads.com/book/show/40046136-a-bound-woman-is-a-dangerous-thing,A Bound Woman Is a Dangerous Thing by DaMaris B. Hill,3.99,424,108,7,7 - A Bound Woman Is a Dangerous Thing by DaMaris B. Hill
+156,Young adult fiction,16048,41473872,https://www.goodreads.com/book/show/41473872-i-wish-you-all-the-best,I Wish You All the Best by Mason Deaver,4.13,10847,2536,7,7 - I Wish You All the Best by Mason Deaver
+157,Young adult fantasy,17037,43204703,https://www.goodreads.com/book/show/43204703-a-curse-so-dark-and-lonely,A Curse So Dark and Lonely by Brigid Kemmerer,4.18,41402,8623,7,7 - A Curse So Dark and Lonely by Brigid Kemmerer
+158,Childrens,9008,34966859,https://www.goodreads.com/book/show/34966859-dragon-pearl,Dragon Pearl by Yoon Ha Lee,3.82,4804,1134,7,7 - Dragon Pearl by Yoon Ha Lee
+159,Picture,7396,38791999,https://www.goodreads.com/book/show/38791999-because,Because by Mo Willems,4.27,2812,477,7,7 - Because by Mo Willems
+160,Fiction,15892,41723456,https://www.goodreads.com/book/show/41723456-the-overdue-life-of-amy-byler,The Overdue Life of Amy Byler by Kelly Harms,3.87,60497,5966,8,8 - The Overdue Life of Amy Byler by Kelly Harms
+161,Mystery thriller,17079,42368604,https://www.goodreads.com/book/show/42368604-lock-every-door,Lock Every Door by Riley Sager,3.93,53697,8526,8,8 - Lock Every Door by Riley Sager
+162,Historical fiction,19298,41556734,https://www.goodreads.com/book/show/41556734-the-lost-girls-of-paris,The Lost Girls of Paris by Pam Jenoff,3.88,51588,5736,8,8 - The Lost Girls of Paris by Pam Jenoff
+163,Fantasy,22383,40524748,https://www.goodreads.com/book/show/40524748-storm-cursed,Storm Cursed by Patricia Briggs,4.43,20900,2170,8,8 - Storm Cursed by Patricia Briggs
+164,Romance,17495,41150287,https://www.goodreads.com/book/show/41150287-the-flatshare,The Flatshare by Beth O'Leary,4.13,71669,10827,8,8 - The Flatshare by Beth O'Leary
+165,Science fiction,11829,52222275,https://www.goodreads.com/book/show/52222275-exhalation,Exhalation by Ted Chiang,4.29,25822,3662,8,8 - Exhalation by Ted Chiang
+166,Horror,5825,40725252,https://www.goodreads.com/book/show/40725252-wakenhyrst,Wakenhyrst by Michelle Paver,3.93,7101,921,8,8 - Wakenhyrst by Michelle Paver
+167,Humor,8649,42506471,https://www.goodreads.com/book/show/42506471-hope-rides-again,Hope Rides Again by Andrew Shaffer,3.59,1371,342,8,8 - Hope Rides Again by Andrew Shaffer
+168,Nonfiction,14825,43231095,https://www.goodreads.com/book/show/43231095-american-predator,American Predator by Maureen Callahan,4.08,12639,1693,8,8 - American Predator by Maureen Callahan
+169,Memoir autobiography,9791,42202117,https://www.goodreads.com/book/show/42202117-from-scratch,From Scratch by Tembi Locke,3.9,13303,1421,8,8 - From Scratch by Tembi Locke
+170,History biography,8874,40594422,https://www.goodreads.com/book/show/40594422-first,First by Evan Thomas,4.23,2098,383,8,8 - First by Evan Thomas
+171,Science technology,7023,41817481,https://www.goodreads.com/book/show/41817481-underland,Underland by Robert Macfarlane,4.24,4736,948,8,8 - Underland by Robert Macfarlane
+172,Food cookbooks,11220,41644326,https://www.goodreads.com/book/show/41644326-save-me-the-plums,Save Me the Plums by Ruth Reichl,4.1,17667,2434,8,8 - Save Me the Plums by Ruth Reichl
+173,Graphic novels comics,14237,21801668,https://www.goodreads.com/book/show/21801668-the-umbrella-academy-vol-3,"The Umbrella Academy, Vol. 3 by Gerard Way",3.66,3465,431,8,"8 - The Umbrella Academy, Vol. 3 by Gerard Way"
+174,Poetry,7741,43453732,https://www.goodreads.com/book/show/43453732-when-you-ask-me-where-i-m-going,When You Ask Me Where I'm Going by Jasmin Kaur,3.97,938,218,8,8 - When You Ask Me Where I'm Going by Jasmin Kaur
+175,Young adult fiction,15030,39893545,https://www.goodreads.com/book/show/39893545-the-vanishing-stair,The Vanishing Stair by Maureen Johnson,4.26,23752,4127,8,8 - The Vanishing Stair by Maureen Johnson
+176,Young adult fantasy,15942,40381392,https://www.goodreads.com/book/show/40381392-finale,Finale by Stephanie Garber,4.18,31744,5073,8,8 - Finale by Stephanie Garber
+177,Childrens,8726,43120234,https://www.goodreads.com/book/show/43120234-diary-of-an-awesome-friendly-kid,Diary of an Awesome Friendly Kid by Jeff Kinney,4.06,16981,589,8,8 - Diary of an Awesome Friendly Kid by Jeff Kinney
+178,Picture,6069,41451728,https://www.goodreads.com/book/show/41451728-we-are-not-friends,We Are (Not) Friends by Anna Kang,3.86,1902,196,8,8 - We Are (Not) Friends by Anna Kang
+179,Fiction,15767,43984883,https://www.goodreads.com/book/show/43984883-olive-again,"Olive, Again by Elizabeth Strout",4.17,41796,5452,9,"9 - Olive, Again by Elizabeth Strout"
+180,Mystery thriller,14859,40121959,https://www.goodreads.com/book/show/40121959-miracle-creek,Miracle Creek by Angie  Kim,3.89,34779,5362,9,9 - Miracle Creek by Angie  Kim
+182,Debut novel,5405,40121959,https://www.goodreads.com/book/show/40121959-miracle-creek,Miracle Creek by Angie  Kim,3.89,34779,5362,12,12 - Miracle Creek by Angie  Kim
+184,Historical fiction,18878,44318414,https://www.goodreads.com/book/show/44318414-the-dutch-house,The Dutch House by Ann Patchett,4.17,133581,15454,9,9 - The Dutch House by Ann Patchett
+185,Fantasy,15015,40524312,https://www.goodreads.com/book/show/40524312-black-leopard-red-wolf,"Black Leopard, Red Wolf by Marlon James",3.45,13362,3258,9,"9 - Black Leopard, Red Wolf by Marlon James"
+186,Romance,13891,39709060,https://www.goodreads.com/book/show/39709060-pretty-reckless,Pretty Reckless by L.J. Shen,4.21,27926,3442,9,9 - Pretty Reckless by L.J. Shen
+187,Science fiction,9095,41940388,https://www.goodreads.com/book/show/41940388-the-test,The Test by Sylvain Neuvel,3.86,10318,1996,9,9 - The Test by Sylvain Neuvel
+188,Horror,5055,42527596,https://www.goodreads.com/book/show/42527596-the-twisted-ones,The Twisted Ones by T. Kingfisher,3.68,5155,1058,9,9 - The Twisted Ones by T. Kingfisher
+189,Humor,8601,43908975,https://www.goodreads.com/book/show/43908975-small-doses,Small Doses by Amanda Seales,4.32,683,109,9,9 - Small Doses by Amanda Seales
+190,Nonfiction,12091,44767249,https://www.goodreads.com/book/show/44767249-she-said,She Said by Jodi Kantor,4.4,18514,2152,9,9 - She Said by Jodi Kantor
+191,Memoir autobiography,9340,43682552,https://www.goodreads.com/book/show/43682552-how-we-fight-for-our-lives,How We Fight For Our Lives by Saeed Jones,4.28,7885,1093,9,9 - How We Fight For Our Lives by Saeed Jones
+192,History biography,8788,39863169,https://www.goodreads.com/book/show/39863169-the-first-conspiracy,The First Conspiracy by Brad Meltzer,3.79,6767,1125,9,9 - The First Conspiracy by Brad Meltzer
+193,Science technology,6113,44526650,https://www.goodreads.com/book/show/44526650-crisis-in-the-red-zone,Crisis in the Red Zone by Richard Preston,4.4,2848,476,9,9 - Crisis in the Red Zone by Richard Preston
+194,Food cookbooks,9699,40796136,https://www.goodreads.com/book/show/40796136-indian-ish,Indian-ish by Priya Krishna,4.21,877,104,9,9 - Indian-ish by Priya Krishna
+195,Graphic novels comics,9005,44774415,https://www.goodreads.com/book/show/44774415-mooncakes,Mooncakes by Suzanne  Walker,3.88,6638,2189,9,9 - Mooncakes by Suzanne  Walker
+196,Poetry,5925,40680971,https://www.goodreads.com/book/show/40680971-empty-bottles-full-of-stories,Empty Bottles Full of Stories by R.H. Sin,3.72,1764,190,9,9 - Empty Bottles Full of Stories by R.H. Sin
+197,Debut novel,11746,43426115,https://www.goodreads.com/book/show/43426115-the-secrets-we-kept,The Secrets We Kept by Lara Prescott,3.71,31010,3381,9,9 - The Secrets We Kept by Lara Prescott
+198,Young adult fiction,14322,43744300,https://www.goodreads.com/book/show/43744300-american-royals,American Royals by Katharine McGee,3.87,26349,3962,9,9 - American Royals by Katharine McGee
+199,Young adult fantasy,15723,42201395,https://www.goodreads.com/book/show/42201395-sorcery-of-thorns,Sorcery of Thorns by Margaret  Rogerson,4.13,33847,7105,9,9 - Sorcery of Thorns by Margaret  Rogerson
+200,Childrens,7878,40390757,https://www.goodreads.com/book/show/40390757-the-strangers,The Strangers by Margaret Peterson Haddix,3.83,3177,588,9,9 - The Strangers by Margaret Peterson Haddix
+201,Picture,5807,43671848,https://www.goodreads.com/book/show/43671848-just-because,Just Because by Mac Barnett,3.8,1264,285,9,9 - Just Because by Mac Barnett
+202,Fiction,12291,41880044,https://www.goodreads.com/book/show/41880044-the-most-fun-we-ever-had,The Most Fun We Ever Had by Claire Lombardo,4.01,31927,4185,10,10 - The Most Fun We Ever Had by Claire Lombardo
+204,Debut novel,4648,41880044,https://www.goodreads.com/book/show/41880044-the-most-fun-we-ever-had,The Most Fun We Ever Had by Claire Lombardo,4.01,31927,4185,13,13 - The Most Fun We Ever Had by Claire Lombardo
+206,Mystery thriller,13804,39863405,https://www.goodreads.com/book/show/39863405-the-mother-in-law,The Mother-in-Law by Sally Hepworth,3.98,58021,6253,10,10 - The Mother-in-Law by Sally Hepworth
+207,Historical fiction,16700,42283286,https://www.goodreads.com/book/show/42283286-summer-of-69,Summer of '69 by Elin Hilderbrand,3.97,56899,4990,10,10 - Summer of '69 by Elin Hilderbrand
+208,Fantasy,14421,41893832,https://www.goodreads.com/book/show/41893832-middlegame,Middlegame by Seanan McGuire,4.07,10614,2308,10,10 - Middlegame by Seanan McGuire
+209,Romance,13432,36117813,https://www.goodreads.com/book/show/36117813-the-girl-he-used-to-know,The Girl He Used to Know by Tracey Garvis Graves,3.97,24511,4550,10,10 - The Girl He Used to Know by Tracey Garvis Graves
+210,Science fiction,8368,41824495,https://www.goodreads.com/book/show/41824495-fall-or-dodge-in-hell,"Fall, Or Dodge in Hell by Neal Stephenson",3.56,10629,1780,10,"10 - Fall, Or Dodge in Hell by Neal Stephenson"
+211,Horror,4587,43506916,https://www.goodreads.com/book/show/43506916-a-cosmology-of-monsters,A Cosmology of Monsters by Shaun Hamill,3.86,3065,642,10,10 - A Cosmology of Monsters by Shaun Hamill
+212,Humor,7314,44419612,https://www.goodreads.com/book/show/44419612-a-woman-first,A Woman First by Selina Meyer,3.66,759,151,10,10 - A Woman First by Selina Meyer
+213,Nonfiction,11641,40776644,https://www.goodreads.com/book/show/40776644-the-moment-of-lift,The Moment of Lift by Melinda Gates,4.31,29653,3651,10,10 - The Moment of Lift by Melinda Gates
+214,Memoir autobiography,9000,43263491,https://www.goodreads.com/book/show/43263491-toil-trouble,Toil & Trouble by Augusten Burroughs,3.99,3977,743,10,10 - Toil & Trouble by Augusten Burroughs
+215,History biography,7711,41574287,https://www.goodreads.com/book/show/41574287-the-heartbeat-of-wounded-knee,The Heartbeat of Wounded Knee by David Treuer,4.19,1990,396,10,10 - The Heartbeat of Wounded Knee by David Treuer
+216,Science technology,5890,43565381,https://www.goodreads.com/book/show/43565381-we-are-the-weather,We Are the Weather by Jonathan Safran Foer,3.73,6069,1081,10,10 - We Are the Weather by Jonathan Safran Foer
+217,Food cookbooks,7635,41155069,https://www.goodreads.com/book/show/41155069-happiness-is-baking,Happiness Is Baking by Maida Heatter,4.03,223,46,10,10 - Happiness Is Baking by Maida Heatter
+218,Graphic novels comics,8516,38812893,https://www.goodreads.com/book/show/38812893-paper-girls-vol-5,"Paper Girls, Vol. 5 by Brian K. Vaughan",4.22,7347,724,10,"10 - Paper Girls, Vol. 5 by Brian K. Vaughan"
+219,Poetry,5777,43124132,https://www.goodreads.com/book/show/43124132-life-of-the-party,Life of the Party by Olivia Gatwood,4.29,1569,253,10,10 - Life of the Party by Olivia Gatwood
+220,Young adult fiction,11979,42245770,https://www.goodreads.com/book/show/42245770-the-rest-of-the-story,The Rest of the Story by Sarah Dessen,4.08,16345,2322,10,10 - The Rest of the Story by Sarah Dessen
+221,Young adult fantasy,14457,30075662,https://www.goodreads.com/book/show/30075662-aurora-rising,Aurora Rising by Amie Kaufman,4.17,22488,5476,10,10 - Aurora Rising by Amie Kaufman
+222,Childrens,7336,41067826,https://www.goodreads.com/book/show/41067826-aru-shah-and-the-song-of-death,Aru Shah and the Song of Death by Roshani Chokshi,4.3,3557,574,10,10 - Aru Shah and the Song of Death by Roshani Chokshi
+223,Picture,5713,41183554,https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy,A Piglet Named Mercy by Kate DiCamillo,3.85,1341,267,10,10 - A Piglet Named Mercy by Kate DiCamillo
+224,Fiction,6069,42431386,https://www.goodreads.com/book/show/42431386-the-bookish-life-of-nina-hill,The Bookish Life of Nina Hill by Abbi Waxman,3.84,39936,7253,11,11 - The Bookish Life of Nina Hill by Abbi Waxman
+225,Mystery thriller,7245,44034500,https://www.goodreads.com/book/show/44034500-a-better-man,A Better Man by Louise Penny,4.33,26580,3434,11,11 - A Better Man by Louise Penny
+226,Historical fiction,8368,40538657,https://www.goodreads.com/book/show/40538657-the-island-of-sea-women,The Island of Sea Women by Lisa See,4.25,36294,5322,11,11 - The Island of Sea Women by Lisa See
+227,Romance,6287,50206920,https://www.goodreads.com/book/show/50206920-ayesha-at-last,Ayesha at Last by Uzma Jalaluddin,3.9,11740,2477,11,11 - Ayesha at Last by Uzma Jalaluddin
+228,Science fiction,4029,42036965,https://www.goodreads.com/book/show/42036965-one-word-kill,One Word Kill by Mark  Lawrence,3.76,13947,1567,11,11 - One Word Kill by Mark  Lawrence
+229,Horror,1974,43706714,https://www.goodreads.com/book/show/43706714-no-one-s-home,No One's Home by D.M. Pulley,3.93,2984,371,11,11 - No One's Home by D.M. Pulley
+230,Humor,3124,45181834,https://www.goodreads.com/book/show/45181834-twas-the-nightshift-before-christmas,Twas the Nightshift before Christmas by Adam Kay,4.18,26640,1744,11,11 - Twas the Nightshift before Christmas by Adam Kay
+231,Nonfiction,5075,38362811,https://www.goodreads.com/book/show/38362811-the-witches-are-coming,The Witches Are Coming by Lindy West,4.18,11981,1797,11,11 - The Witches Are Coming by Lindy West
+232,Memoir autobiography,4379,44776548,https://www.goodreads.com/book/show/44776548-year-of-the-monkey,Year of the Monkey by Patti Smith,3.88,6533,762,11,11 - Year of the Monkey by Patti Smith
+233,History biography,3065,41796203,https://www.goodreads.com/book/show/41796203-madame-fourcade-s-secret-war,Madame Fourcade's Secret War by Lynne Olson,4.23,3532,576,11,11 - Madame Fourcade's Secret War by Lynne Olson
+234,Science technology,2899,39999461,https://www.goodreads.com/book/show/39999461-never-enough,Never Enough by Judith Grisel,4.07,1582,271,11,11 - Never Enough by Judith Grisel
+235,Food cookbooks,3521,46131607,https://www.goodreads.com/book/show/46131607-forking-good,Forking Good by Valya Dudycz Lupescu,3.99,75,25,11,11 - Forking Good by Valya Dudycz Lupescu
+236,Graphic novels comics,4163,39073378,https://www.goodreads.com/book/show/39073378-kid-gloves,Kid Gloves by Lucy Knisley,4.39,6161,1079,11,11 - Kid Gloves by Lucy Knisley
+237,Poetry,2690,40611194,https://www.goodreads.com/book/show/40611194-magical-negro,Magical Negro by Morgan  Parker,4.31,1510,197,11,11 - Magical Negro by Morgan  Parker
+238,Debut novel,5457,40024139,https://www.goodreads.com/book/show/40024139-serpent-dove,Serpent & Dove by Shelby Mahurin,4.14,38832,8019,11,11 - Serpent & Dove by Shelby Mahurin
+240,Young adult fantasy,2482,40024139,https://www.goodreads.com/book/show/40024139-serpent-dove,Serpent & Dove by Shelby Mahurin,4.14,38832,8019,18,18 - Serpent & Dove by Shelby Mahurin
+242,Young adult fiction,5815,37539001,https://www.goodreads.com/book/show/37539001-capturing-the-devil,Capturing the Devil by Kerri Maniscalco,4.29,9079,1764,11,11 - Capturing the Devil by Kerri Maniscalco
+243,Young adult fantasy,7423,42771754,https://www.goodreads.com/book/show/42771754-supernova,Supernova by Marissa Meyer,4.42,17090,3185,11,11 - Supernova by Marissa Meyer
+244,Childrens,3481,40206380,https://www.goodreads.com/book/show/40206380-the-bridge-home,The Bridge Home by Padma Venkatraman,4.31,4434,903,11,11 - The Bridge Home by Padma Venkatraman
+245,Picture,2943,41954472,https://www.goodreads.com/book/show/41954472-pirates-don-t-go-to-kindergarten,Pirates Don't Go to Kindergarten! by Lisa     Robinson,4.13,867,166,11,11 - Pirates Don't Go to Kindergarten! by Lisa     Robinson
+246,Fiction,5679,40390714,https://www.goodreads.com/book/show/40390714-the-last-romantics,The Last Romantics by Tara Conklin,3.75,29027,3479,12,12 - The Last Romantics by Tara Conklin
+247,Mystery thriller,6743,43822820,https://www.goodreads.com/book/show/43822820-the-family-upstairs,The Family Upstairs by Lisa Jewell,4.0,79341,9111,12,12 - The Family Upstairs by Lisa Jewell
+248,Historical fiction,7423,40546098,https://www.goodreads.com/book/show/40546098-what-the-wind-knows,What the Wind Knows by Amy Harmon,4.35,49038,4791,12,12 - What the Wind Knows by Amy Harmon
+249,Fantasy,6541,36510722,https://www.goodreads.com/book/show/36510722-gods-of-jade-and-shadow,Gods of Jade and Shadow by Silvia Moreno-Garcia,3.89,15126,3016,12,12 - Gods of Jade and Shadow by Silvia Moreno-Garcia
+250,Romance,5970,42785825,https://www.goodreads.com/book/show/42785825-the-friend-zone,The Friend Zone by Abby Jimenez,3.91,25956,4408,12,12 - The Friend Zone by Abby Jimenez
+252,Debut novel,3041,42785825,https://www.goodreads.com/book/show/42785825-the-friend-zone,The Friend Zone by Abby Jimenez,3.91,25956,4408,19,19 - The Friend Zone by Abby Jimenez
+254,Science fiction,3898,43190272,https://www.goodreads.com/book/show/43190272-to-be-taught-if-fortunate,"To Be Taught, If Fortunate by Becky Chambers",4.22,10421,1845,12,"12 - To Be Taught, If Fortunate by Becky Chambers"
+255,Horror,1960,42118050,https://www.goodreads.com/book/show/42118050-growing-things-and-other-stories,Growing Things and Other Stories by Paul Tremblay,3.52,2957,521,12,12 - Growing Things and Other Stories by Paul Tremblay
+256,Humor,2985,43615787,https://www.goodreads.com/book/show/43615787-good-things-happen-to-people-you-hate,Good Things Happen to People You Hate by Rebecca Fishbein,3.45,296,50,12,12 - Good Things Happen to People You Hate by Rebecca Fishbein
+257,Nonfiction,4966,41154327,https://www.goodreads.com/book/show/41154327-parkland,Parkland by Dave Cullen,4.05,4251,748,12,12 - Parkland by Dave Cullen
+258,Memoir autobiography,3935,42188604,https://www.goodreads.com/book/show/42188604-in-the-dream-house,In the Dream House by Carmen Maria Machado,4.56,15794,2365,12,12 - In the Dream House by Carmen Maria Machado
+259,History biography,2561,40121985,https://www.goodreads.com/book/show/40121985-how-to-hide-an-empire,How to Hide an Empire by Daniel Immerwahr,4.45,3153,532,12,12 - How to Hide an Empire by Daniel Immerwahr
+260,Science technology,2275,40597264,https://www.goodreads.com/book/show/40597264-hacking-darwin,Hacking Darwin by Jamie Metzl,4.04,1353,182,12,12 - Hacking Darwin by Jamie Metzl
+261,Food cookbooks,2903,39858047,https://www.goodreads.com/book/show/39858047-the-clean-plate,The Clean Plate by Gwyneth Paltrow,3.64,423,56,12,12 - The Clean Plate by Gwyneth Paltrow
+262,Graphic novels comics,4075,39073387,https://www.goodreads.com/book/show/39073387-bloom,Bloom by Kevin Panetta,4.1,13341,2801,12,12 - Bloom by Kevin Panetta
+263,Poetry,2246,43822523,https://www.goodreads.com/book/show/43822523-almost-home,Almost Home by Madisen Kuhn,4.31,457,85,12,12 - Almost Home by Madisen Kuhn
+264,Young adult fiction,4874,40695682,https://www.goodreads.com/book/show/40695682-internment,Internment by Samira Ahmed,3.91,9779,2388,12,12 - Internment by Samira Ahmed
+265,Young adult fantasy,5699,34992959,https://www.goodreads.com/book/show/34992959-defy-me,Defy Me by Tahereh Mafi,4.18,19722,3195,12,12 - Defy Me by Tahereh Mafi
+266,Childrens,3371,41154293,https://www.goodreads.com/book/show/41154293-other-words-for-home,Other Words for Home by Jasmine Warga,4.46,7503,1426,12,12 - Other Words for Home by Jasmine Warga
+267,Picture,2875,43853210,https://www.goodreads.com/book/show/43853210-the-proudest-blue,The Proudest Blue by Ibtihaj Muhammad,4.55,1956,369,12,12 - The Proudest Blue by Ibtihaj Muhammad
+268,Fiction,5517,43697186,https://www.goodreads.com/book/show/43697186-red-at-the-bone,Red at the Bone by Jacqueline Woodson,4.0,27035,3810,13,13 - Red at the Bone by Jacqueline Woodson
+269,Mystery thriller,6275,42779092,https://www.goodreads.com/book/show/42779092-the-chain,The Chain by Adrian McKinty,3.81,33399,5509,13,13 - The Chain by Adrian McKinty
+270,Historical fiction,6799,39863482,https://www.goodreads.com/book/show/39863482-the-night-tiger,The Night Tiger by Yangsze Choo,3.87,28600,3614,13,13 - The Night Tiger by Yangsze Choo
+271,Fantasy,5588,39855052,https://www.goodreads.com/book/show/39855052-the-kingdom-of-copper,The Kingdom of Copper by S.A. Chakraborty,4.41,15840,2210,13,13 - The Kingdom of Copper by S.A. Chakraborty
+272,Romance,5142,42599067,https://www.goodreads.com/book/show/42599067-the-wedding-party,The Wedding Party by Jasmine Guillory,3.76,18734,2107,13,13 - The Wedding Party by Jasmine Guillory
+273,Science fiction,3801,34019083,https://www.goodreads.com/book/show/34019083-wanderers,Wanderers by Chuck Wendig,4.01,11026,2294,13,13 - Wanderers by Chuck Wendig
+274,Horror,1815,41888678,https://www.goodreads.com/book/show/41888678-song-for-the-unraveling-of-the-world,Song for the Unraveling of the World by Brian Evenson,3.91,1011,166,13,13 - Song for the Unraveling of the World by Brian Evenson
+275,Humor,2843,41940280,https://www.goodreads.com/book/show/41940280-mr-know-it-all,Mr. Know-It-All by John Waters,3.81,1383,268,13,13 - Mr. Know-It-All by John Waters
+276,Nonfiction,4764,43822665,https://www.goodreads.com/book/show/43822665-embrace-your-weird,Embrace Your Weird by Felicia Day,4.05,1187,233,13,13 - Embrace Your Weird by Felicia Day
+277,Memoir autobiography,3331,46223297,https://www.goodreads.com/book/show/46223297-permanent-record,Permanent Record by Edward Snowden,4.38,21176,2415,13,13 - Permanent Record by Edward Snowden
+278,History biography,2418,41219594,https://www.goodreads.com/book/show/41219594-dutch-girl,Dutch Girl by Robert Matzen,3.81,3146,651,13,13 - Dutch Girl by Robert Matzen
+279,Science technology,2202,44595007,https://www.goodreads.com/book/show/44595007-indistractable,Indistractable by Nir Eyal,3.8,5745,782,13,13 - Indistractable by Nir Eyal
+280,Food cookbooks,2762,40180121,https://www.goodreads.com/book/show/40180121-zaitoun,Zaitoun by Yasmin    Khan,4.41,294,35,13,13 - Zaitoun by Yasmin    Khan
+281,Graphic novels comics,4028,40864841,https://www.goodreads.com/book/show/40864841-laura-dean-keeps-breaking-up-with-me,Laura Dean Keeps Breaking Up with Me by Mariko Tamaki,4.11,13884,2673,13,13 - Laura Dean Keeps Breaking Up with Me by Mariko Tamaki
+282,Poetry,2026,41746324,https://www.goodreads.com/book/show/41746324-the-tradition,The Tradition by Jericho Brown,4.32,1668,244,13,13 - The Tradition by Jericho Brown
+283,Young adult fiction,4657,39725622,https://www.goodreads.com/book/show/39725622-the-princess-and-the-fangirl,The Princess and the Fangirl by Ashley Poston,3.89,6663,1575,13,13 - The Princess and the Fangirl by Ashley Poston
+284,Young adult fantasy,4484,39863277,https://www.goodreads.com/book/show/39863277-bloodwitch,Bloodwitch by Susan Dennard,4.32,6780,1310,13,13 - Bloodwitch by Susan Dennard
+285,Childrens,3061,43822791,https://www.goodreads.com/book/show/43822791-legacy,Legacy by Shannon Messenger,4.54,5216,724,13,13 - Legacy by Shannon Messenger
+286,Picture,2604,32335532,https://www.goodreads.com/book/show/32335532-how-to-read-a-book,How to Read a Book by Kwame Alexander,3.8,2234,482,13,13 - How to Read a Book by Kwame Alexander
+287,Fiction,5065,39863464,https://www.goodreads.com/book/show/39863464-when-all-is-said,When All Is Said by Anne  Griffin,4.05,22062,2837,14,14 - When All Is Said by Anne  Griffin
+289,Debut novel,3697,39863464,https://www.goodreads.com/book/show/39863464-when-all-is-said,When All Is Said by Anne  Griffin,4.05,22062,2837,15,15 - When All Is Said by Anne  Griffin
+291,Mystery thriller,4940,34563821,https://www.goodreads.com/book/show/34563821-disappearing-earth,Disappearing Earth by Julia  Phillips,3.91,22112,3210,14,14 - Disappearing Earth by Julia  Phillips
+292,Historical fiction,5628,40988979,https://www.goodreads.com/book/show/40988979-lost-roses,Lost Roses by Martha Hall Kelly,4.01,26423,3126,14,14 - Lost Roses by Martha Hall Kelly
+293,Fantasy,4669,41212753,https://www.goodreads.com/book/show/41212753-the-dragon-republic,The Dragon Republic by R.F. Kuang,4.31,8680,1736,14,14 - The Dragon Republic by R.F. Kuang
+294,Romance,4748,41063454,https://www.goodreads.com/book/show/41063454-meet-cute,Meet Cute by Helena Hunting,3.76,22261,2914,14,14 - Meet Cute by Helena Hunting
+295,Science fiction,3258,37534907,https://www.goodreads.com/book/show/37534907-the-city-in-the-middle-of-the-night,The City in the Middle of the Night by Charlie Jane Anders,3.57,5263,1066,14,14 - The City in the Middle of the Night by Charlie Jane Anders
+296,Horror,1600,41555927,https://www.goodreads.com/book/show/41555927-the-toll,The Toll by Cherie Priest,3.42,1412,312,14,14 - The Toll by Cherie Priest
+297,Humor,2396,44527315,https://www.goodreads.com/book/show/44527315-effin-birds,Effin' Birds by Aaron  Reynolds,4.14,492,115,14,14 - Effin' Birds by Aaron  Reynolds
+298,Nonfiction,4521,40121993,https://www.goodreads.com/book/show/40121993-the-collected-schizophrenias,The Collected Schizophrenias by Esmé Weijun Wang,4.16,8957,1151,14,14 - The Collected Schizophrenias by Esmé Weijun Wang
+299,Memoir autobiography,3072,42729452,https://www.goodreads.com/book/show/42729452-more-than-enough,More Than Enough by Elaine Welteroth,4.4,3572,529,14,14 - More Than Enough by Elaine Welteroth
+300,History biography,2251,40165912,https://www.goodreads.com/book/show/40165912-the-lady-from-the-black-lagoon,The Lady from the Black Lagoon by Mallory O'Meara,4.04,3351,802,14,14 - The Lady from the Black Lagoon by Mallory O'Meara
+301,Science technology,1866,42397849,https://www.goodreads.com/book/show/42397849-burnout,Burnout by Emily Nagoski,3.97,5040,807,14,14 - Burnout by Emily Nagoski
+302,Food cookbooks,2581,40796103,https://www.goodreads.com/book/show/40796103-no-crumbs-left,No Crumbs Left by Teri Turner,4.46,427,71,14,14 - No Crumbs Left by Teri Turner
+303,Graphic novels comics,3543,36700347,https://www.goodreads.com/book/show/36700347-good-talk,Good Talk by Mira Jacob,4.48,8668,1484,14,14 - Good Talk by Mira Jacob
+304,Poetry,1817,40121980,https://www.goodreads.com/book/show/40121980-deaf-republic,Deaf Republic by Ilya Kaminsky,4.5,2648,466,14,14 - Deaf Republic by Ilya Kaminsky
+305,Debut novel,4607,40696776,https://www.goodreads.com/book/show/40696776-boy-swallows-universe,Boy Swallows Universe by Trent Dalton,4.42,32049,3311,14,14 - Boy Swallows Universe by Trent Dalton
+306,Young adult fiction,4538,39847584,https://www.goodreads.com/book/show/39847584-frankly-in-love,Frankly in Love by David  Yoon,3.82,13108,3053,14,14 - Frankly in Love by David  Yoon
+307,Young adult fantasy,4477,31373184,https://www.goodreads.com/book/show/31373184-call-down-the-hawk,Call Down the Hawk by Maggie Stiefvater,4.38,15338,3542,14,14 - Call Down the Hawk by Maggie Stiefvater
+308,Childrens,2910,41429527,https://www.goodreads.com/book/show/41429527-shouting-at-the-rain,Shouting at the Rain by Lynda Mullaly Hunt,4.19,3651,534,14,14 - Shouting at the Rain by Lynda Mullaly Hunt
+309,Picture,1976,40607588,https://www.goodreads.com/book/show/40607588-it-s-not-hansel-and-gretel,It's Not Hansel and Gretel by Josh Funk,4.04,1043,222,14,14 - It's Not Hansel and Gretel by Josh Funk
+310,Fiction,4932,42207168,https://www.goodreads.com/book/show/42207168-the-gifted-school,The Gifted School by Bruce Holsinger,3.75,22687,2996,15,15 - The Gifted School by Bruce Holsinger
+311,Mystery thriller,3582,41716679,https://www.goodreads.com/book/show/41716679-searching-for-sylvie-lee,Searching for Sylvie Lee by Jean Kwok,3.66,20832,2343,15,15 - Searching for Sylvie Lee by Jean Kwok
+312,Historical fiction,5387,42589678,https://www.goodreads.com/book/show/42589678-mrs-everything,Mrs. Everything by Jennifer Weiner,3.85,50542,5567,15,15 - Mrs. Everything by Jennifer Weiner
+313,Fantasy,4593,37587820,https://www.goodreads.com/book/show/37587820-darkdawn,Darkdawn by Jay Kristoff,4.37,14190,2775,15,15 - Darkdawn by Jay Kristoff
+314,Romance,4257,43205122,https://www.goodreads.com/book/show/43205122-well-met,Well Met by Jen DeLuca,3.89,22053,4174,15,15 - Well Met by Jen DeLuca
+315,Science fiction,3109,39863238,https://www.goodreads.com/book/show/39863238-a-memory-called-empire,A Memory Called Empire by Arkady Martine,4.18,8017,1471,15,15 - A Memory Called Empire by Arkady Martine
+316,Horror,1273,44349541,https://www.goodreads.com/book/show/44349541-violet,Violet by Scott   Thomas,3.56,1230,402,15,15 - Violet by Scott   Thomas
+317,Humor,2218,34315901,https://www.goodreads.com/book/show/34315901-baby-don-t-hurt-me,"Baby, Don't Hurt Me by Chris Kattan",3.62,478,101,15,"15 - Baby, Don't Hurt Me by Chris Kattan"
+318,Nonfiction,4469,43126457,https://www.goodreads.com/book/show/43126457-trick-mirror,Trick Mirror by Jia Tolentino,4.23,25526,3042,15,15 - Trick Mirror by Jia Tolentino
+319,Memoir autobiography,3009,40046084,https://www.goodreads.com/book/show/40046084-long-live-the-tribe-of-fatherless-girls,Long Live the Tribe of Fatherless Girls by T Kira Madden,4.3,4244,595,15,15 - Long Live the Tribe of Fatherless Girls by T Kira Madden
+320,History biography,2092,40539126,https://www.goodreads.com/book/show/40539126-code-name,Code Name by Larry Loftis,3.93,3627,521,15,15 - Code Name by Larry Loftis
+321,Science technology,1583,36739320,https://www.goodreads.com/book/show/36739320-because-internet,Because Internet by Gretchen McCulloch,4.07,4953,943,15,15 - Because Internet by Gretchen McCulloch
+322,Food cookbooks,2494,49630911,https://www.goodreads.com/book/show/49630911-sunny-side-up,Sunny-Side Up by Waylynn Lucas,3.86,84,22,15,15 - Sunny-Side Up by Waylynn Lucas
+323,Graphic novels comics,2954,41391399,https://www.goodreads.com/book/show/41391399-under-the-moon,Under the Moon by Lauren Myracle,3.68,2467,615,15,15 - Under the Moon by Lauren Myracle
+324,Poetry,1665,41745412,https://www.goodreads.com/book/show/41745412-soft-science,Soft Science by Franny Choi,4.14,946,155,15,15 - Soft Science by Franny Choi
+325,Young adult fiction,3060,36511805,https://www.goodreads.com/book/show/36511805-serious-moonlight,Serious Moonlight by Jenn Bennett,3.76,5424,1232,15,15 - Serious Moonlight by Jenn Bennett
+326,Young adult fantasy,4057,40367270,https://www.goodreads.com/book/show/40367270-four-dead-queens,Four Dead Queens by Astrid Scholte,3.76,10769,2274,15,15 - Four Dead Queens by Astrid Scholte
+327,Childrens,2817,38609428,https://www.goodreads.com/book/show/38609428-to-night-owl-from-dogfish,To Night Owl from Dogfish by Holly Goldberg Sloan,4.09,4815,1145,15,15 - To Night Owl from Dogfish by Holly Goldberg Sloan
+328,Picture,1655,42642044,https://www.goodreads.com/book/show/42642044-fry-bread,Fry Bread by Kevin Noble Maillard,4.46,1784,390,15,15 - Fry Bread by Kevin Noble Maillard
+329,Fiction,3591,41880602,https://www.goodreads.com/book/show/41880602-fleishman-is-in-trouble,Fleishman Is in Trouble by Taffy Brodesser-Akner,3.69,38577,4556,16,16 - Fleishman Is in Trouble by Taffy Brodesser-Akner
+331,Debut novel,2525,41880602,https://www.goodreads.com/book/show/41880602-fleishman-is-in-trouble,Fleishman Is in Trouble by Taffy Brodesser-Akner,3.69,38577,4556,20,20 - Fleishman Is in Trouble by Taffy Brodesser-Akner
+333,Mystery thriller,3412,41081925,https://www.goodreads.com/book/show/41081925-i-ll-never-tell,I'll Never Tell by Catherine McKenzie,3.75,13462,1476,16,16 - I'll Never Tell by Catherine McKenzie
+334,Historical fiction,3122,45033931,https://www.goodreads.com/book/show/45033931-cilka-s-journey,Cilka's Journey by Heather   Morris,4.4,41923,4610,16,16 - Cilka's Journey by Heather   Morris
+335,Fantasy,4424,41555947,https://www.goodreads.com/book/show/41555947-magic-for-liars,Magic for Liars by Sarah Gailey,3.66,14337,2459,16,16 - Magic for Liars by Sarah Gailey
+336,Romance,3669,43603066,https://www.goodreads.com/book/show/43603066-sapphire-flames,Sapphire Flames by Ilona Andrews,4.39,14546,1796,16,16 - Sapphire Flames by Ilona Andrews
+337,Science fiction,2953,43160651,https://www.goodreads.com/book/show/43160651-thrawn,Thrawn by Timothy Zahn,4.24,6818,659,16,16 - Thrawn by Timothy Zahn
+338,Horror,1234,44791629,https://www.goodreads.com/book/show/44791629-the-remaking,The Remaking by Clay McLeod Chapman,3.31,990,304,16,16 - The Remaking by Clay McLeod Chapman
+339,Humor,1909,40819522,https://www.goodreads.com/book/show/40819522-brilliant-brilliant-brilliant-brilliant-brilliant,"Brilliant, Brilliant, Brilliant Brilliant Brilliant by Joel Golby",3.69,1048,90,16,"16 - Brilliant, Brilliant, Brilliant Brilliant Brilliant by Joel Golby"
+340,Nonfiction,4227,41883932,https://www.goodreads.com/book/show/41883932-furious-hours,Furious Hours by Casey Cep,3.82,12923,2124,16,16 - Furious Hours by Casey Cep
+341,Memoir autobiography,2652,43497893,https://www.goodreads.com/book/show/43497893-prognosis,Prognosis by Sarah Vallance,3.86,5553,515,16,16 - Prognosis by Sarah Vallance
+342,History biography,1772,41716904,https://www.goodreads.com/book/show/41716904-upheaval,Upheaval by Jared Diamond,3.86,4119,579,16,16 - Upheaval by Jared Diamond
+343,Science technology,920,43723901,https://www.goodreads.com/book/show/43723901-lifespan,Lifespan by David A. Sinclair,4.21,3510,434,16,16 - Lifespan by David A. Sinclair
+344,Food cookbooks,2286,43261151,https://www.goodreads.com/book/show/43261151-binging-with-babish,Binging with Babish by Andrew Rea,4.39,381,32,16,16 - Binging with Babish by Andrew Rea
+345,Graphic novels comics,2452,41812788,https://www.goodreads.com/book/show/41812788-the-adventure-zone,The Adventure Zone by Clint McElroy,4.65,6403,695,16,16 - The Adventure Zone by Clint McElroy
+346,Poetry,1644,48510012,https://www.goodreads.com/book/show/48510012-i-m-not-your-paper-princess,I'm Not Your Paper Princess by J.R. Rogue,4.14,118,44,16,16 - I'm Not Your Paper Princess by J.R. Rogue
+347,Debut novel,3674,39679076,https://www.goodreads.com/book/show/39679076-house-of-salt-and-sorrows,House of Salt and Sorrows by Erin A. Craig,3.96,19976,4848,16,16 - House of Salt and Sorrows by Erin A. Craig
+348,Young adult fiction,2876,40536335,https://www.goodreads.com/book/show/40536335-opposite-of-always,Opposite of Always by Justin A. Reynolds,3.72,9443,1941,16,16 - Opposite of Always by Justin A. Reynolds
+349,Young adult fantasy,4055,42121526,https://www.goodreads.com/book/show/42121526-rebel,Rebel by Marie Lu,4.14,8685,1658,16,16 - Rebel by Marie Lu
+350,Childrens,2757,43231099,https://www.goodreads.com/book/show/43231099-dead-voices,Dead Voices by Katherine Arden,4.04,2697,617,16,16 - Dead Voices by Katherine Arden
+351,Picture,1466,41954471,https://www.goodreads.com/book/show/41954471-what-if-everybody-thought-that,What If Everybody Thought That? by Ellen Javernick,3.53,308,58,16,16 - What If Everybody Thought That? by Ellen Javernick
+352,Fiction,2787,44581535,https://www.goodreads.com/book/show/44581535-find-me,Find Me by André Aciman,3.34,18810,3004,17,17 - Find Me by André Aciman
+353,Mystery thriller,2806,43885041,https://www.goodreads.com/book/show/43885041-the-night-fire,The Night Fire by Michael Connelly,4.31,28064,2423,17,17 - The Night Fire by Michael Connelly
+354,Historical fiction,2940,42366224,https://www.goodreads.com/book/show/42366224-the-book-woman-of-troublesome-creek,The Book Woman of Troublesome Creek by Kim Michele Richardson,4.23,38703,6650,17,17 - The Book Woman of Troublesome Creek by Kim Michele Richardson
+355,Fantasy,2745,30169100,https://www.goodreads.com/book/show/30169100-the-burning-white,The Burning White by Brent Weeks,4.33,14311,1378,17,17 - The Burning White by Brent Weeks
+356,Romance,3456,53166909,https://www.goodreads.com/book/show/53166909-beard-necessities,Beard Necessities by Penny Reid,4.3,7419,1058,17,17 - Beard Necessities by Penny Reid
+357,Science fiction,2945,43263237,https://www.goodreads.com/book/show/43263237-the-future-of-another-timeline,The Future of Another Timeline by Annalee Newitz,3.78,3026,663,17,17 - The Future of Another Timeline by Annalee Newitz
+358,Horror,1121,43263515,https://www.goodreads.com/book/show/43263515-the-monster-of-elendhaven,The Monster of Elendhaven by Jennifer Giesbrecht,3.56,2849,737,17,17 - The Monster of Elendhaven by Jennifer Giesbrecht
+359,Humor,1681,44908180,https://www.goodreads.com/book/show/44908180-medallion-status,Medallion Status by John Hodgman,4.19,2924,318,17,17 - Medallion Status by John Hodgman
+360,Nonfiction,2215,44767265,https://www.goodreads.com/book/show/44767265-blowout,Blowout by Rachel  Maddow,4.39,7737,1271,17,17 - Blowout by Rachel  Maddow
+361,Memoir autobiography,2289,40180065,https://www.goodreads.com/book/show/40180065-sounds-like-titanic,Sounds Like Titanic by Jessica Chiccehitto Hindman,3.91,1884,394,17,17 - Sounds Like Titanic by Jessica Chiccehitto Hindman
+362,History biography,1664,41812830,https://www.goodreads.com/book/show/41812830-the-british-are-coming,The British Are Coming by Rick Atkinson,4.45,2372,408,17,17 - The British Are Coming by Rick Atkinson
+363,Science technology,914,36589701,https://www.goodreads.com/book/show/36589701-the-perfect-predator,The Perfect Predator by Steffanie Strathdee,4.41,1441,286,17,17 - The Perfect Predator by Steffanie Strathdee
+364,Food cookbooks,2149,37805223,https://www.goodreads.com/book/show/37805223-midnight-chicken,Midnight Chicken by Ella Risbridger,4.42,581,116,17,17 - Midnight Chicken by Ella Risbridger
+365,Graphic novels comics,1939,45899240,https://www.goodreads.com/book/show/45899240-monstress-vol-4,"Monstress, Vol. 4 by Marjorie M. Liu",4.24,3333,433,17,"17 - Monstress, Vol. 4 by Marjorie M. Liu"
+366,Poetry,1485,40909463,https://www.goodreads.com/book/show/40909463-the-octopus-museum,The Octopus Museum by Brenda Shaughnessy,3.76,392,68,17,17 - The Octopus Museum by Brenda Shaughnessy
+367,Debut novel,3569,36492488,https://www.goodreads.com/book/show/36492488-we-hunt-the-flame,We Hunt the Flame by Hafsah Faizal,3.8,9596,2346,17,17 - We Hunt the Flame by Hafsah Faizal
+369,Young adult fantasy,1916,36492488,https://www.goodreads.com/book/show/36492488-we-hunt-the-flame,We Hunt the Flame by Hafsah Faizal,3.8,9596,2346,19,19 - We Hunt the Flame by Hafsah Faizal
+371,Young adult fiction,1958,43263520,https://www.goodreads.com/book/show/43263520-the-grace-year,The Grace Year by Kim Liggett,4.15,17214,4233,17,17 - The Grace Year by Kim Liggett
+372,Young adult fantasy,2580,44139418,https://www.goodreads.com/book/show/44139418-the-secret-commonwealth,The Secret Commonwealth by Philip Pullman,4.1,25819,3006,17,17 - The Secret Commonwealth by Philip Pullman
+373,Childrens,2715,39855034,https://www.goodreads.com/book/show/39855034-the-unteachables,The Unteachables by Gordon Korman,4.29,4231,798,17,17 - The Unteachables by Gordon Korman
+374,Picture,1459,41451729,https://www.goodreads.com/book/show/41451729-vacation-for-dexter,Vacation for Dexter! by Lindsay Ward,3.75,232,47,17,17 - Vacation for Dexter! by Lindsay Ward
+375,Fiction,1486,42976592,https://www.goodreads.com/book/show/42976592-the-reckless-oath-we-made,The Reckless Oath We Made by Bryn Greenwood,4.01,6453,1187,18,18 - The Reckless Oath We Made by Bryn Greenwood
+376,Mystery thriller,2736,42599605,https://www.goodreads.com/book/show/42599605-the-last-widow,The Last Widow by Karin Slaughter,4.08,21278,2278,18,18 - The Last Widow by Karin Slaughter
+377,Historical fiction,2280,25813942,https://www.goodreads.com/book/show/25813942-this-tender-land,This Tender Land by William Kent Krueger,4.38,31316,5046,18,18 - This Tender Land by William Kent Krueger
+378,Fantasy,2239,42592353,https://www.goodreads.com/book/show/42592353-age-of-legend,Age of Legend by Michael J. Sullivan,4.38,5440,562,18,18 - Age of Legend by Michael J. Sullivan
+379,Romance,2215,52176814,https://www.goodreads.com/book/show/52176814-the-best-thing,The Best Thing by Mariana Zapata,4.03,12855,1582,18,18 - The Best Thing by Mariana Zapata
+380,Science fiction,1728,39217756,https://www.goodreads.com/book/show/39217756-here-and-now-and-then,Here and Now and Then by Mike Chen,3.77,4923,1065,18,18 - Here and Now and Then by Mike Chen
+381,Horror,1074,40696751,https://www.goodreads.com/book/show/40696751-the-luminous-dead,The Luminous Dead by Caitlin  Starling,3.72,4022,991,18,18 - The Luminous Dead by Caitlin  Starling
+382,Humor,1625,43309518,https://www.goodreads.com/book/show/43309518-nice-try,Nice Try by Josh Gondelman,3.87,725,107,18,18 - Nice Try by Josh Gondelman
+383,Nonfiction,2184,40265832,https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist,How to Be an Antiracist by Ibram X. Kendi,4.47,7306,1308,18,18 - How to Be an Antiracist by Ibram X. Kendi
+384,Memoir autobiography,2202,39216478,https://www.goodreads.com/book/show/39216478-the-unwinding-of-the-miracle,The Unwinding of the Miracle by Julie Yip-Williams,4.11,7103,1047,18,18 - The Unwinding of the Miracle by Julie Yip-Williams
+385,History biography,1483,40360266,https://www.goodreads.com/book/show/40360266-spearhead,Spearhead by Adam Makos,4.55,2569,401,18,18 - Spearhead by Adam Makos
+386,Science technology,833,44573628,https://www.goodreads.com/book/show/44573628-super-pumped,Super Pumped by Mike Isaac,4.17,5709,524,18,18 - Super Pumped by Mike Isaac
+387,Food cookbooks,927,44767037,https://www.goodreads.com/book/show/44767037-nothing-fancy,Nothing Fancy by Alison Roman,4.3,1051,95,18,18 - Nothing Fancy by Alison Roman
+388,Graphic novels comics,1370,40538764,https://www.goodreads.com/book/show/40538764-fence-vol-3,"Fence, Vol. 3 by C.S. Pacat",4.2,4339,689,18,"18 - Fence, Vol. 3 by C.S. Pacat"
+389,Poetry,1477,44313592,https://www.goodreads.com/book/show/44313592-aphrodite-made-me-do-it,Aphrodite Made Me Do It by Trista Mateer,4.07,1829,541,18,18 - Aphrodite Made Me Do It by Trista Mateer
+390,Young adult fiction,1707,44107480,https://www.goodreads.com/book/show/44107480-lovely-war,Lovely War by Julie Berry,4.28,10428,2559,18,18 - Lovely War by Julie Berry
+391,Childrens,2460,44023770,https://www.goodreads.com/book/show/44023770-a-tale-of-magic,A Tale of Magic... by Chris Colfer,3.76,6402,480,18,18 - A Tale of Magic... by Chris Colfer
+392,Picture,838,40796177,https://www.goodreads.com/book/show/40796177-the-undefeated,The Undefeated by Kwame Alexander,4.7,2975,782,18,18 - The Undefeated by Kwame Alexander
+393,Fiction,1413,52186796,https://www.goodreads.com/book/show/52186796-girl-woman-other,"Girl, Woman, Other by Bernardine Evaristo",4.42,33372,3962,19,"19 - Girl, Woman, Other by Bernardine Evaristo"
+394,Mystery thriller,2697,39796904,https://www.goodreads.com/book/show/39796904-my-lovely-wife,My Lovely Wife by Samantha  Downing,3.89,54045,7731,19,19 - My Lovely Wife by Samantha  Downing
+395,Historical fiction,1315,41555942,https://www.goodreads.com/book/show/41555942-nottingham,Nottingham by Nathan Makaryk,3.89,773,199,19,19 - Nottingham by Nathan Makaryk
+396,Fantasy,2097,35606041,https://www.goodreads.com/book/show/35606041-a-little-hatred,A Little Hatred by Joe Abercrombie,4.48,10522,1268,19,19 - A Little Hatred by Joe Abercrombie
+397,Romance,1711,43616063,https://www.goodreads.com/book/show/43616063-the-wallflower-wager,The Wallflower Wager by Tessa Dare,3.98,11739,1888,19,19 - The Wallflower Wager by Tessa Dare
+398,Science fiction,1699,41716930,https://www.goodreads.com/book/show/41716930-children-of-ruin,Children of Ruin by Adrian Tchaikovsky,4.07,10951,1117,19,19 - Children of Ruin by Adrian Tchaikovsky
+399,Horror,748,42201850,https://www.goodreads.com/book/show/42201850-the-need,The Need by Helen          Phillips,3.18,7798,1564,19,19 - The Need by Helen          Phillips
+400,Humor,1623,44064563,https://www.goodreads.com/book/show/44064563-when-life-gives-you-pears,When Life Gives You Pears by Jeannie Gaffigan,4.22,3005,490,19,19 - When Life Gives You Pears by Jeannie Gaffigan
+401,Nonfiction,1239,40365093,https://www.goodreads.com/book/show/40365093-thick,Thick by Tressie McMillan Cottom,4.45,5950,865,19,19 - Thick by Tressie McMillan Cottom
+402,Memoir autobiography,2156,44288534,https://www.goodreads.com/book/show/44288534-what-is-a-girl-worth,What Is a Girl Worth? by Rachael Denhollander,4.65,2086,567,19,19 - What Is a Girl Worth? by Rachael Denhollander
+403,History biography,833,40121946,https://www.goodreads.com/book/show/40121946-the-death-and-life-of-aida-hernandez,The Death and Life of Aida Hernandez by Aaron Bobrow-Strain,4.47,479,102,19,19 - The Death and Life of Aida Hernandez by Aaron Bobrow-Strain
+404,Science technology,790,44065062,https://www.goodreads.com/book/show/44065062-something-deeply-hidden,Something Deeply Hidden by Sean Carroll,4.09,1399,207,19,19 - Something Deeply Hidden by Sean Carroll
+405,Food cookbooks,897,40864247,https://www.goodreads.com/book/show/40864247-mostly-plants,Mostly Plants by Tracy Pollan,3.92,358,54,19,19 - Mostly Plants by Tracy Pollan
+406,Graphic novels comics,1168,42835876,https://www.goodreads.com/book/show/42835876-the-wicked-the-divine-vol-9,"The Wicked + The Divine, Vol. 9 by Kieron Gillen",4.27,2014,327,19,"19 - The Wicked + The Divine, Vol. 9 by Kieron Gillen"
+407,Poetry,1286,43726619,https://www.goodreads.com/book/show/43726619-a-fortune-for-your-disaster,A Fortune for Your Disaster by Hanif Abdurraqib,4.47,815,132,19,19 - A Fortune for Your Disaster by Hanif Abdurraqib
+408,Young adult fiction,1464,40148146,https://www.goodreads.com/book/show/40148146-love-from-a-to-z,Love From A to Z by S.K. Ali,4.12,5401,1444,19,19 - Love From A to Z by S.K. Ali
+409,Childrens,1344,43453642,https://www.goodreads.com/book/show/43453642-dear-sweet-pea,Dear Sweet Pea by Julie   Murphy,4.02,2270,472,19,19 - Dear Sweet Pea by Julie   Murphy
+410,Picture,823,41954470,https://www.goodreads.com/book/show/41954470-rosie-the-dragon-and-charlie-make-waves,Rosie the Dragon and Charlie Make Waves by Lauren H. Kerstein,3.81,491,105,19,19 - Rosie the Dragon and Charlie Make Waves by Lauren H. Kerstein
+411,Fiction,1238,41940306,https://www.goodreads.com/book/show/41940306-lanny,Lanny by Max Porter,4.13,12271,1827,20,20 - Lanny by Max Porter
+412,Mystery thriller,1772,38355304,https://www.goodreads.com/book/show/38355304-the-line-between,The Line Between by Tosca Lee,4.09,2870,745,20,20 - The Line Between by Tosca Lee
+413,Historical fiction,754,41454042,https://www.goodreads.com/book/show/41454042-the-summer-country,The Summer Country by Lauren Willig,3.86,3444,573,20,20 - The Summer Country by Lauren Willig
+414,Fantasy,2047,38099642,https://www.goodreads.com/book/show/38099642-holy-sister,Holy Sister by Mark  Lawrence,4.35,14035,1484,20,20 - Holy Sister by Mark  Lawrence
+415,Romance,1335,42079209,https://www.goodreads.com/book/show/42079209-brazen-and-the-beast,Brazen and the Beast by Sarah MacLean,4.12,6791,1080,20,20 - Brazen and the Beast by Sarah MacLean
+416,Science fiction,584,40523931,https://www.goodreads.com/book/show/40523931-the-light-brigade,The Light Brigade by Kameron Hurley,3.97,4736,888,20,20 - The Light Brigade by Kameron Hurley
+417,Horror,501,42186023,https://www.goodreads.com/book/show/42186023-petra-s-ghost,Petra's Ghost by C.S. O’Cinneide,3.89,196,67,20,20 - Petra's Ghost by C.S. O’Cinneide
+418,Humor,997,42046110,https://www.goodreads.com/book/show/42046110-someone-who-will-love-you-in-all-your-damaged-glory,Someone Who Will Love You in All Your Damaged Glory by Raphael Bob-Waksberg,4.17,4221,684,20,20 - Someone Who Will Love You in All Your Damaged Glory by Raphael Bob-Waksberg
+419,Nonfiction,675,36742978,https://www.goodreads.com/book/show/36742978-grace-will-lead-us-home,Grace Will Lead Us Home by Jennifer Berry Hawes,4.5,700,141,20,20 - Grace Will Lead Us Home by Jennifer Berry Hawes
+420,Memoir autobiography,1306,43261166,https://www.goodreads.com/book/show/43261166-wild-game,Wild Game by Adrienne Brodeur,4.01,14451,1804,20,20 - Wild Game by Adrienne Brodeur
+421,History biography,595,42972023,https://www.goodreads.com/book/show/42972023-the-anarchy,The Anarchy by William Dalrymple,4.24,2826,449,20,20 - The Anarchy by William Dalrymple
+422,Science technology,788,40696923,https://www.goodreads.com/book/show/40696923-blueprint,Blueprint by Nicholas A. Christakis,3.94,1161,149,20,20 - Blueprint by Nicholas A. Christakis
+423,Food cookbooks,876,40916358,https://www.goodreads.com/book/show/40916358-burn-the-place,Burn the Place by Iliana Regan,3.78,1045,151,20,20 - Burn the Place by Iliana Regan
+424,Graphic novels comics,567,42667807,https://www.goodreads.com/book/show/42667807-die-vol-1,"Die, Vol. 1 by Kieron Gillen",4.08,2604,420,20,"20 - Die, Vol. 1 by Kieron Gillen"
+425,Poetry,899,42977358,https://www.goodreads.com/book/show/42977358-the-girl-aquarium,The Girl Aquarium by Jen Campbell,3.74,363,58,20,20 - The Girl Aquarium by Jen Campbell
+426,Young adult fiction,1264,39863399,https://www.goodreads.com/book/show/39863399-birthday,Birthday by Meredith Russo,4.25,5843,1466,20,20 - Birthday by Meredith Russo
+427,Young adult fantasy,1859,39863498,https://www.goodreads.com/book/show/39863498-the-gilded-wolves,The Gilded Wolves by Roshani Chokshi,3.66,15311,4528,20,20 - The Gilded Wolves by Roshani Chokshi
+428,Childrens,1295,39884337,https://www.goodreads.com/book/show/39884337-tristan-strong-punches-a-hole-in-the-sky,Tristan Strong Punches a Hole in the Sky by Kwame Mbalia,4.31,2180,574,20,20 - Tristan Strong Punches a Hole in the Sky by Kwame Mbalia
+429,Picture,650,43662690,https://www.goodreads.com/book/show/43662690-snow-globe-wishes,Snow Globe Wishes by Erin Dealey,3.69,321,45,20,20 - Snow Globe Wishes by Erin Dealey
